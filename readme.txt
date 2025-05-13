@@ -62,3 +62,4 @@ Key features:
 3. Colab integration for quick testing  
 4. Straightforward technical details  
 5. Problem-solving prompts for users  
+presentation: https://gamma.app/docs/Leaf-Disease-Detection-Project-9ztoqrqts1ky7oe
