@@ -1,9 +1,7 @@
 
 ```markdown
 # 🌿 Leaf Health Classifier  
-
 A simple CNN model to detect if a plant leaf is healthy or diseased.  
-
 ---
 
 ## Quick Start
